@@ -1,2 +1,2 @@
-# coding_test_with_Python
-이코테 정리 및 문제풀이
+### coding_test_with_Algorithm
+- 알고리즘 내용 정리
